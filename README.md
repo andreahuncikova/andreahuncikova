@@ -8,7 +8,7 @@ I’m passionate about building interactive and responsive websites, learning mo
 ## 🌐 Skills & Technologies
 - **Frontend:** HTML, CSS, TailwindCSS, JavaScript, TypeScript, Vue.js 
 - **Backend:** Node.js, PHP  
-- **Databases:** MySQL (basic), MongoDB (basic), Firebase
+- **Databases:** MySQL, MongoDB, Firebase
 
 ---
 
