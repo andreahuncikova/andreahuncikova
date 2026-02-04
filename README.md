@@ -1,7 +1,7 @@
-# Hi👋, 
+# Hi👋
 
 I'm a **Web Development student studying at Syddansk Erhvervsakademi (SEA) in Esbjerg, Denmark**.  
-I’m passionate about building interactive and responsive websites, learning modern web technologies, and sharing my projects on GitHub.
+I focus on creating interactive and responsive web applications and learning new ways to improve my development skills.
 
 ---
 
