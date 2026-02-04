@@ -12,8 +12,8 @@ I’m passionate about building interactive and responsive websites, learning mo
 
 ---
 
-## 🔗 Find Me
-- GitHub: [https://github.com/andreahuncikova](https://github.com/andreahuncikova)  
+## 🔗 Reach out to me
+- Email: a.huncikova@gmail.com
 - LinkedIn: https://www.linkedin.com/in/andreahuncikova/    
 
 ---
