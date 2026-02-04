@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi👋, I'm Andrea!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building projects, learning new technologies, and sharing code with the community.  
 
